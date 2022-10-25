@@ -8,3 +8,8 @@
 - run `npx hardhat run scripts/deploy.js`
 - run `npx hardhat run scripts/deploy.js --network goerli` (ALCHEMY LIVE NETWORK)
 
+### GOERLI FAUCETS
+
+- `https://faucets.chain.link`
+- `https://goerlifaucet.com`
+
